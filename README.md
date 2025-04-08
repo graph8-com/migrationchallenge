@@ -1,7 +1,3 @@
-Perfect — here’s the updated version of the assignment including **free deployment expectations**, with practical and modern tools:
-
----
-
 ## 🧠 Graph8 Full-Stack Migration Challenge: *PingCRM → React + FastAPI*
 
 ### Overview
